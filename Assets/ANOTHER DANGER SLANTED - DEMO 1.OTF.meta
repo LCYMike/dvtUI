@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 9abe5f8b3a0dc02449740d2215012a6d
+timeCreated: 1523606195
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Another Danger Slanted - Demo
+  fontNames:
+  - Another Danger Slanted - Demo
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 5b9a3ccb4f4e6364eb2eed5782f4a1bc, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
